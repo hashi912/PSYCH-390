@@ -1,2 +1,2 @@
 # PSYCH-390
-This github account contains the repository for PSYCH 390 course at University of Waterloo. 
+This github account contains the repository for the PSYCH 390 course at the University of Waterloo. 
